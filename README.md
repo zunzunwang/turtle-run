@@ -32,4 +32,4 @@ Unit tests are required
 Your project must have a toolchain (maven, ivy or gradle)
 It is recommended to use java8 but not mandatory
 You can use the internet
-You can’t use 3rd party libraries except for reading/writing formatted file and unit tests
+You can’t use 3rd party libraries except for reading/writing formatted file and unit tests.
